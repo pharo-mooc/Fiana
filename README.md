@@ -1,5 +1,5 @@
 This repository is about a lecture on Advanced Object-Oriented Design 
-given by S. Ducasse and Oleksandr Zaitsev at the University of Finiarantsoa in Magadascar.
+given by S. Ducasse and Oleksandr Zaitsev at the University of Finiarantsoa in Madagascar.
 
 - Exercise descriptions are in the folder Exercises
 
@@ -8,15 +8,15 @@ given by S. Ducasse and Oleksandr Zaitsev at the University of Finiarantsoa in M
 - The file 'resources' contains information to configure Pharo as well as some extra links.
 
 
-## Thursday 16
 
-### 1 Welcome (40 min)
+
+### Welcome
 
 - Introduction: oo design, oo design with Pharo
 - Pharo https://rmod-pharo-mooc.lille.inria.fr/MOOC/PharoMOOC/Week1/C019-W1S02-WhatIsPharo.pdf
 - First look and Hello World in Pharo environment
 
-###  2 Brief overview of the Syntax (1.30 h)
+### Brief overview of the Syntax
 
 - http://rmod-pharo-mooc.lille.inria.fr/MOOC/PharoMOOC/Week1/C019-W1S05-PharoSyntaxInANutshell.pdf
 - trying examples from the presentation in Pharo in Playground
@@ -25,7 +25,7 @@ given by S. Ducasse and Oleksandr Zaitsev at the University of Finiarantsoa in M
   - watched 0.1 video and did 0.1, 0.2 quizzes
 - Small example with creating a few classes and instantiating them in Playground (suggestion)
 
-### 3 Design: sending a message (1 h)
+### Design: sending a message
 
 - http://rmod-pharo-mooc.lille.inria.fr/AdvancedDesignMooc/Slides/M1-1-Essence-01-NotExample.pdf
 
@@ -36,7 +36,6 @@ given by S. Ducasse and Oleksandr Zaitsev at the University of Finiarantsoa in M
 #### Homework
 
 - Watch Module 1 of https://advanced-design-mooc.pharo.org
-
 
 
 ### Messages
