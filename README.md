@@ -126,7 +126,7 @@ given by S. Ducasse and Oleksandr Zaitsev at the University of Finiarantsoa in M
 
 
 
-### 1Design Command and isNil
+### Design Command and isNil
 
 - http://rmod-pharo-mooc.lille.inria.fr/AdvancedDesignMooc/Slides/M5-3-DesignPattern-07-Command-Definition.pdf
 
