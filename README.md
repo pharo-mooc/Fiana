@@ -1,5 +1,5 @@
 This repository is about a lecture on Advanced Object-Oriented Design 
-given by S. Ducasse and Oleksandr Zaitsev at the University of Finiarantsoa in Madagascar.
+given by S. Ducasse and Oleksandr Zaitsev at the University of Fianarantsoa in Madagascar.
 
 - Exercise descriptions are in the folder Exercises
 
