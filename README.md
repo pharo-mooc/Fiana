@@ -23,19 +23,28 @@ given by S. Ducasse and Oleksandr Zaitsev at the University of Fianarantsoa in M
 - Small example with creating a few classes and instantiating them in Playground (suggestion)
 
 
-
 ###  Practice: ProfStef
+
+```
+ProfStef go
+```
 
 #### Homework
 
 - Watch Module 1 of https://advanced-design-mooc.pharo.org
-
 
 ### Messages
 
 - https://rmod-pharo-mooc.lille.inria.fr/MOOC/PharoMOOC/Week2/C019-W2S01-Messages.pdf
 - https://rmod-pharo-mooc.lille.inria.fr/MOOC/PharoMOOC/Week2/C019-W2S02-Messages-ForTheJavaProgrammers.pdf
 - https://rmod-pharo-mooc.lille.inria.fr/MOOC/PharoMOOC/Week2/C019-W2S03-Messages-Precedence.pdf
+
+- https://rmod-pharo-mooc.lille.inria.fr/MOOC/PharoMOOC/Week2/C019-W2S06-Blocks.pdf
+- https://rmod-pharo-mooc.lille.inria.fr/MOOC/PharoMOOC/Week2/C019-W2S07-Loops.pdf
+
+
+
+
 
 
 
