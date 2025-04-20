@@ -20,16 +20,9 @@ given by S. Ducasse and Oleksandr Zaitsev at the University of Fianarantsoa in M
 
 - http://rmod-pharo-mooc.lille.inria.fr/MOOC/PharoMOOC/Week1/C019-W1S05-PharoSyntaxInANutshell.pdf
 - trying examples from the presentation in Pharo in Playground
-- How to pass the exam?
-  - Practice: MOOC Quizes Module 0
-  - watched 0.1 video and did 0.1, 0.2 quizzes
 - Small example with creating a few classes and instantiating them in Playground (suggestion)
 
-### Design: sending a message
 
-- http://rmod-pharo-mooc.lille.inria.fr/AdvancedDesignMooc/Slides/M1-1-Essence-01-NotExample.pdf
-
-- https://rmod-pharo-mooc.lille.inria.fr/AdvancedDesignMooc/Slides/M1-2-Essence-02-Dispatch.pdf
 
 ###  Practice: ProfStef
 
@@ -41,15 +34,14 @@ given by S. Ducasse and Oleksandr Zaitsev at the University of Fianarantsoa in M
 ### Messages
 
 - https://rmod-pharo-mooc.lille.inria.fr/MOOC/PharoMOOC/Week2/C019-W2S01-Messages.pdf
-
 - https://rmod-pharo-mooc.lille.inria.fr/MOOC/PharoMOOC/Week2/C019-W2S02-Messages-ForTheJavaProgrammers.pdf
-
 - https://rmod-pharo-mooc.lille.inria.fr/MOOC/PharoMOOC/Week2/C019-W2S03-Messages-Precedence.pdf
+
+
 
 ### Design: self/super
 
 - http://rmod-pharo-mooc.lille.inria.fr/AdvancedDesignMooc/Slides/M1-4-Essence-04-Self.pdf
-
 - http://rmod-pharo-mooc.lille.inria.fr/AdvancedDesignMooc/Slides/M1-5-Essence-05-Super.pdf
 
 ### Getting started with XTDD
@@ -63,9 +55,16 @@ given by S. Ducasse and Oleksandr Zaitsev at the University of Fianarantsoa in M
 
 - Explain class side methods
 
-### Lunch
-
 #### Practice: DSL
+
+
+### Design: sending a message
+
+- http://rmod-pharo-mooc.lille.inria.fr/AdvancedDesignMooc/Slides/M1-1-Essence-01-NotExample.pdf
+
+- https://rmod-pharo-mooc.lille.inria.fr/AdvancedDesignMooc/Slides/M1-2-Essence-02-Dispatch.pdf
+
+
 
 ### Design: Double dispatch
 	
