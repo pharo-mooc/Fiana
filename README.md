@@ -29,9 +29,6 @@ given by S. Ducasse and Oleksandr Zaitsev at the University of Fianarantsoa in M
 ProfStef go
 ```
 
-#### Homework
-
-- Watch Module 1 of https://advanced-design-mooc.pharo.org
 
 ### Messages
 
@@ -39,8 +36,13 @@ ProfStef go
 - https://rmod-pharo-mooc.lille.inria.fr/MOOC/PharoMOOC/Week2/C019-W2S02-Messages-ForTheJavaProgrammers.pdf
 - https://rmod-pharo-mooc.lille.inria.fr/MOOC/PharoMOOC/Week2/C019-W2S03-Messages-Precedence.pdf
 
-- https://rmod-pharo-mooc.lille.inria.fr/MOOC/PharoMOOC/Week2/C019-W2S06-Blocks.pdf
+
+### Control flow structures
+
 - https://rmod-pharo-mooc.lille.inria.fr/MOOC/PharoMOOC/Week2/C019-W2S07-Loops.pdf
+- https://rmod-pharo-mooc.lille.inria.fr/MOOC/PharoMOOC/Week2/C019-W2S08-BooleansAndCondition.pdf
+- https://rmod-pharo-mooc.lille.inria.fr/MOOC/PharoMOOC/Week2/C019-W2S06-Blocks.pdf
+
 
 
 
@@ -57,14 +59,13 @@ ProfStef go
 
 - Live Counter by example
 - TDD http://rmod-pharo-mooc.lille.inria.fr/AdvancedDesignMooc/Slides/M2-3-Tests-03-TDD.pdf
+- Watch Module 1 of https://advanced-design-mooc.pharo.org
 
 #### Practice: Counter
 
 #### Practice: Die DSL
-
 - Explain class side methods
 
-#### Practice: DSL
 
 
 ### Design: sending a message
