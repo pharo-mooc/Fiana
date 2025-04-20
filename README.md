@@ -44,12 +44,27 @@ ProfStef go
 - https://rmod-pharo-mooc.lille.inria.fr/MOOC/PharoMOOC/Week2/C019-W2S08-BooleansAndCondition.pdf
 - https://rmod-pharo-mooc.lille.inria.fr/MOOC/PharoMOOC/Week2/C019-W2S06-Blocks.pdf
 - https://rmod-pharo-mooc.lille.inria.fr/MOOC/PharoMOOC/Week2/C019-W2S09-ParenthesisVsSquareBrackets.pdf
+- https://rmod-pharo-mooc.lille.inria.fr/MOOC/PharoMOOC/Week3/C019-W3S09-Iterators.pdf
+
+### Practice: Counter
 
 
 
+### Final stroke on the syntax
 
+- https://rmod-pharo-mooc.lille.inria.fr/MOOC/PharoMOOC/Week3/C019-W3S03-Basic-Variables.pdf
+- https://rmod-pharo-mooc.lille.inria.fr/MOOC/PharoMOOC/Week3/C019-W3S04-TeapotAsAPretext.pdf
+- https://rmod-pharo-mooc.lille.inria.fr/MOOC/PharoMOOC/Week3/C019-W3S11-UnderstandingReturn.pdf
 
+### Some collections
+- https://rmod-pharo-mooc.lille.inria.fr/MOOC/PharoMOOC/Week3/C019-W3S07-Basic-ArraySetOrderedCollection.pdf
+- https://rmod-pharo-mooc.lille.inria.fr/MOOC/PharoMOOC/Week3/C019-W3S10-Streams.pdf
+- https://rmod-pharo-mooc.lille.inria.fr/MOOC/PharoMOOC/Week3/C019-W3S06-BasicClassMethods.pdf
 
+### Design: sending a message
+
+- http://rmod-pharo-mooc.lille.inria.fr/AdvancedDesignMooc/Slides/M1-1-Essence-01-NotExample.pdf
+- https://rmod-pharo-mooc.lille.inria.fr/AdvancedDesignMooc/Slides/M1-2-Essence-02-Dispatch.pdf
 
 ### Design: self/super
 
@@ -62,51 +77,32 @@ ProfStef go
 - TDD http://rmod-pharo-mooc.lille.inria.fr/AdvancedDesignMooc/Slides/M2-3-Tests-03-TDD.pdf
 - Watch Module 1 of https://advanced-design-mooc.pharo.org
 
-#### Practice: Counter
 
-#### Practice: Die DSL
+
+### Practice: Die DSL
 - Explain class side methods
 
 
-
-### Design: sending a message
-
-- http://rmod-pharo-mooc.lille.inria.fr/AdvancedDesignMooc/Slides/M1-1-Essence-01-NotExample.pdf
-
-- https://rmod-pharo-mooc.lille.inria.fr/AdvancedDesignMooc/Slides/M1-2-Essence-02-Dispatch.pdf
-
+### Practice: CountryFlag 
 
 
 ### Design: Double dispatch
 	
 - http://rmod-pharo-mooc.lille.inria.fr/AdvancedDesignMooc/Slides/M6-1-DoubleDispatch-01-StoneExercise.pdf
-
 - http://rmod-pharo-mooc.lille.inria.fr/AdvancedDesignMooc/Slides/M6-2-DoubleDispatch-04-NoSymmetrical.pdf
 
 ### Practice: Stone paper scissor
 
-###Practice: Stone paper scissor lizzard Spock
+Extend it support Stone paper scissor lizzard Spock
 
 ### Design: Hook and Template
 
 - http://rmod-pharo-mooc.lille.inria.fr/AdvancedDesignMooc/Slides/M3-2-Essence-07-SelfSendsArePlansForReuse.pdf
-
 - http://rmod-pharo-mooc.lille.inria.fr/AdvancedDesignMooc/Slides/M4-4-BasicPrinciples-05-FatClassesAreBad.pdf
-
-
-### Homework
-
-- Watch Module 2 of https://advanced-design-mooc.pharo.org
-
-
-
-
 
 ###  Practice: Expression
 
-### Practice: Expression
-
-###Design: Composite 
+### Design: Composite 
 
 - http://rmod-pharo-mooc.lille.inria.fr/AdvancedDesignMooc/Slides/M5-1-DesignPattern-03-Composite.pdf
 
@@ -114,27 +110,18 @@ ProfStef go
 
 - http://rmod-pharo-mooc.lille.inria.fr/AdvancedDesignMooc/Slides/M6-4-DesignPattern-04-Visitor.pdf
 
-### Lunch
-
 ###  Practice: Visitor
 
 
-###Design: delegation vs. Inheritance
+### Design: delegation vs. Inheritance
 
 - http://rmod-pharo-mooc.lille.inria.fr/AdvancedDesignMooc/Slides/M5-4-BasicPrinciples-06-DelegationVsInheritance.pdf
 
-###Design: About coupling
+### Design: About coupling
 
 - http://rmod-pharo-mooc.lille.inria.fr/AdvancedDesignMooc/Slides/M9-1-Principles-04-LawOfDemeter.pdf
-
-
-### Homework
-
 - http://rmod-pharo-mooc.lille.inria.fr/AdvancedDesignMooc/Slides/M9-5-CaseStudy-05-Sokoban-Analysis.pdf
-
 - Watch http://rmod-pharo-mooc.lille.inria.fr/AdvancedDesignMooc/Slides/M4-2-BasicPrinciples-04-AboutObjectsVSData.pdf
-
-
 
 ### Design Command and isNil
 
