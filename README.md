@@ -35,6 +35,7 @@ ProfStef go
 - https://rmod-pharo-mooc.lille.inria.fr/MOOC/PharoMOOC/Week2/C019-W2S01-Messages.pdf
 - https://rmod-pharo-mooc.lille.inria.fr/MOOC/PharoMOOC/Week2/C019-W2S02-Messages-ForTheJavaProgrammers.pdf
 - https://rmod-pharo-mooc.lille.inria.fr/MOOC/PharoMOOC/Week2/C019-W2S03-Messages-Precedence.pdf
+- https://rmod-pharo-mooc.lille.inria.fr/MOOC/PharoMOOC/Week2/C019-W2S10-Yourself.pdf
 
 
 ### Control flow structures
@@ -42,7 +43,7 @@ ProfStef go
 - https://rmod-pharo-mooc.lille.inria.fr/MOOC/PharoMOOC/Week2/C019-W2S07-Loops.pdf
 - https://rmod-pharo-mooc.lille.inria.fr/MOOC/PharoMOOC/Week2/C019-W2S08-BooleansAndCondition.pdf
 - https://rmod-pharo-mooc.lille.inria.fr/MOOC/PharoMOOC/Week2/C019-W2S06-Blocks.pdf
-
+- https://rmod-pharo-mooc.lille.inria.fr/MOOC/PharoMOOC/Week2/C019-W2S09-ParenthesisVsSquareBrackets.pdf
 
 
 
