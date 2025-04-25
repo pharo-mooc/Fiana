@@ -48,7 +48,7 @@ ProfStef go
 
 ### Practice: Counter
 
-
+[Counter Exercise](https://github.com/SquareBracketAssociates/LearningOOPWithPharo/blob/master/Chapters/Counter/Counter.md)
 
 ### Final stroke on the syntax
 
