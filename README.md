@@ -12,6 +12,7 @@ given by S. Ducasse and Oleksandr Zaitsev at the University of Fianarantsoa in M
 
 - [[PDF]](https://github.com/pharo-mooc/Fiana/blob/main/Exercises/CounterNoXtremeTDD.pdf) [[Markdown]](https://github.com/SquareBracketAssociates/LearningOOPWithPharo/blob/master/Chapters/Counter/Counter.md) Counter
 - [[PDF]](https://github.com/pharo-mooc/Fiana/blob/main/Exercises/CountryFlag.pdf) [[Markdown]](https://github.com/SquareBracketAssociates/booklet-CountryTutorial/blob/main/Chapters/Country/CountriesExamples.md) CountryFlag
+- [[PDF]](https://github.com/pharo-mooc/Fiana/blob/main/Exercises/PaperStoneScissor.pdf) [[Markdown]](https://github.com/SquareBracketAssociates/Booklet-AdvancedMicroProjects/blob/main/Chapters/PaperStoneScissor/PaperStoneScissor.md) RockPaperScissors
 
 ### Welcome
 
