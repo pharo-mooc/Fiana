@@ -8,7 +8,10 @@ given by S. Ducasse and Oleksandr Zaitsev at the University of Fianarantsoa in M
 - The file 'resources' contains information to configure Pharo as well as some extra links.
 
 
+### Exercises
 
+- [[PDF]](https://github.com/pharo-mooc/Fiana/blob/main/Exercises/CounterNoXtremeTDD.pdf) [[Markdown]](https://github.com/SquareBracketAssociates/LearningOOPWithPharo/blob/master/Chapters/Counter/Counter.md) Counter
+- [[PDF]](https://github.com/pharo-mooc/Fiana/blob/main/Exercises/CountryFlag.pdf) [[Markdown]](https://github.com/SquareBracketAssociates/booklet-CountryTutorial/blob/main/Chapters/Country/CountriesExamples.md) CountryFlag
 
 ### Welcome
 
