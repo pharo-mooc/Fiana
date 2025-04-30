@@ -7,6 +7,9 @@ given by S. Ducasse and Oleksandr Zaitsev at the University of Fianarantsoa in M
 
 - The file 'resources' contains information to configure Pharo as well as some extra links.
 
+### How to Contribute
+
+- [How to contribute to Cormas](https://cormas.org/#/contributing) (same principle for Pharo)
 
 ### Exercises
 
